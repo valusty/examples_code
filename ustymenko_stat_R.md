@@ -393,7 +393,7 @@
 
     hist(control$SPEED)
 
-![](ustymenko_stat_R_files/figure-markdown_strict/unnamed-chunk-14-1.png)
+![](https://drive.google.com/file/d/1AoqLkZwVSYKF8HcT5A9fSe4aRpIYKkUn/view?usp=drive_link)
 
 Візуально аналізуючи утворені гістограми можна стверджувати, що для
 даних в групі “control”, показника “SPEED” характерний нормальний
